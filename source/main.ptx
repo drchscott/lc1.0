@@ -52,6 +52,7 @@
       <section xml:id="section-title">
         <title>Section title</title>
         <p>Hello</p>
+        <definition>Limit</definition>
       </section>
 
     </chapter>
